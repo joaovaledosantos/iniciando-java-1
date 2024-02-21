@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello world");
+        int minhaIdade = 18;
+        int salarioMensal = 50000;
+        System.out.println(minhaIdade);
+        System.out.println(salarioMensal);
     }
 }
